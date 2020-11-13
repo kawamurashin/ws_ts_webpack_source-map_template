@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://ws_ts_webpack_source-map_template/./src/Main.ts"],"names":[],"mappings":";;;;;;AAAA,OAAO,CAAC,GAAG,CAAC,oBAAoB,CAAC,CAAC","file":"ts.js","sourcesContent":["console.log(\"typescript start22\");"],"sourceRoot":""}
